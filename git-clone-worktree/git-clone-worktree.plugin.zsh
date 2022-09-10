@@ -40,4 +40,4 @@ git-clone-bare-for-worktree() {
     git fetch origin
 }
 
-alias gclb="git-clone-bare-for-worktree"
+alias gclw="git-clone-bare-for-worktree"
